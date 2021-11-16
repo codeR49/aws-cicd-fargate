@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World deployed to aws fargate"
+    return "Hello World executed by Arnab"
 
 
 if __name__ == "__main__":
