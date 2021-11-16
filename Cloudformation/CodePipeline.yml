@@ -16,10 +16,10 @@ Parameters:
     Default: main
   GithubOAuthToken:
     Type: String
-    Default: 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
+    Default: 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
   ContainerPort:
     Type: Number
-    Default: 5000
+    Default: 6000
 
 Resources:
 
